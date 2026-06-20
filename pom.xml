@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.teera.startpoint</groupId>
-    <artifactId>Teera</artifactId>
+    <artifactId>_1_Teera</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Teera</name>
+    <name>_1_Teera</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
