@@ -10,13 +10,14 @@ import com.teera.handlers.buttonHandlers.*;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
+import javafx.scene.image.Image;
 import javafx.scene.layout.*;
 import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
  * Teera
- * @version 0.4 08-05-2026
+ * @version 0.5 16-07-2026
  * @author tarqa-a-flyweight
  */
 
@@ -26,6 +27,8 @@ public class Main extends Application
     public void start(Stage stage) throws IOException
     {
         stage.setTitle("Teera");
+        stage.getIcons().add(new Image("file:attachments\\TeeraIcon.png"));
+
         GridPane nodeRoot = new GridPane(10, 10);
 
         Scene scene = new Scene(nodeRoot, 700,
