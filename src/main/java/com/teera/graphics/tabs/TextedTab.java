@@ -2,10 +2,8 @@ package com.teera.graphics.tabs;
 
 import com.teera.graphics.components.scrolls.InnerScroll;
 import com.teera.graphics.components.scrolls.ScrollFactory;
-import com.teera.handlers.patterns.Observable;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.Tab;
-import static com.teera.debug.Logmas.*;
 
 public class TextedTab extends Tab
 {

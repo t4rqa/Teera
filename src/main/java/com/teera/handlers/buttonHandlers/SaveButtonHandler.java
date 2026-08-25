@@ -13,9 +13,6 @@ import com.teera.handlers.patterns.Visitor;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Objects;
-
-import static com.teera.debug.Logmas.LOGGER;
 
 public class SaveButtonHandler implements Observer, Visitor
 {

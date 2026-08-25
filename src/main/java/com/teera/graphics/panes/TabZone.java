@@ -10,8 +10,6 @@ import javafx.scene.control.TabPane;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import static com.teera.debug.Logmas.*;
-
 public class TabZone extends TabPane implements Visited
 {
     private Collection<Visitor> visitors = new ArrayList<>();

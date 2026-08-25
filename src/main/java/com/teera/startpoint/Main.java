@@ -17,8 +17,8 @@ import java.io.IOException;
 
 /**
  * Teera
- * @version 0.5 16-07-2026
- * @author tarqa-a-flyweight
+ * @version 0.6 25-08-2026
+ * @author t4rqa
  */
 
 public class Main extends Application

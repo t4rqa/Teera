@@ -12,8 +12,6 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import static com.teera.debug.Logmas.LOGGER;
-
 public class CloseButtonHandler implements Observer, Visitor
 {
     // UnsaveDialog OR TabZone

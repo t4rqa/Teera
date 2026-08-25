@@ -16,8 +16,6 @@ import javafx.scene.layout.VBox;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import static com.teera.debug.Logmas.LOGGER;
-
 public class InnerScroll extends ScrollPane implements Observer
 {
     public InnerScroll(String contents)
